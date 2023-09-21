@@ -6,8 +6,15 @@ authors = ["evelinag <evelina@evelinag.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.11,<3.13"
+requests = "^2.31.0"
+pandas = "^2.1.1"
+matplotlib = "^3.8.0"
+seaborn = "^0.12.2"
 
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.25.2"
 
 [build-system]
 requires = ["poetry-core"]
