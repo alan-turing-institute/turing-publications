@@ -75,5 +75,12 @@ MIT License. See [LICENSE.md](LICENSE.md) for details.
 
 Downloading data from DataCite works by looking for "Alan Turing Institute" within the text of each record (different systems put affiliations into different places). This seems to download records largely from Zenodo.
 
-Below I'm trying to collect some examples of outputs created by The Alan Turing Institute that are not included, for reference and debugging:
+Below I'm trying to collect some examples of outputs created by The Alan Turing Institute that are not included, for reference and debugging. This is biased and incomplete:
 
+- Most of arxiv.org papers!
+    - [Some papers from arxiv.org that include the Turing somewhere in the text](https://arxiv.org/search/?query=the+alan+turing+institute&searchtype=all&source=header)
+    - [Random example from arxiv.org that came out of the Turing](https://arxiv.org/abs/1908.08737) where Turing is only listed as an affiliation in the actual paper
+- Some Zenodo outputs:
+    - [My Shiny workshop for AIM RSF](https://zenodo.org/record/7953445)
+    - [AIM RSF outputs overall](https://zenodo.org/communities/ai-mltc-m/?page=1&size=20)
+    - [REG illustrations](https://zenodo.org/record/7785796)
