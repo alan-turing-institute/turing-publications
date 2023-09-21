@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "turing-publications"
+version = "0.1.0"
+description = ""
+authors = ["evelinag <evelina@evelinag.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
