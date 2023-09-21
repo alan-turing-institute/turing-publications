@@ -66,7 +66,7 @@ If you would like to contribute, please fork the repository and use a feature br
 
 ## License
 
-MIT License. See [LICENSE.md](LICENSE.md) for details.
+MIT License. See [LICENSE](LICENSE) for details.
 
 
 ----------
