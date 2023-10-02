@@ -1,0 +1,162 @@
+{
+    "id": "https://doi.org/10.5281/zenodo.8321608",
+    "doi": "10.5281/ZENODO.8321608",
+    "url": "https://zenodo.org/record/8321608",
+    "types": {
+      "ris": "RPRT",
+      "bibtex": "article",
+      "citeproc": "article-journal",
+      "schemaOrg": "ScholarlyArticle",
+      "resourceType": "Presentation",
+      "resourceTypeGeneral": "Text"
+    },
+    "creators": [
+      {
+        "name": "Simpson, Nathan",
+        "givenName": "Nathan",
+        "familyName": "Simpson",
+        "affiliation": [
+          {
+            "name": "The Alan Turing Institute"
+          }
+        ],
+        "nameIdentifiers": [
+          {
+            "schemeUri": "https://orcid.org",
+            "nameIdentifier": "https://orcid.org/0000-0003-4188-8299",
+            "nameIdentifierScheme": "ORCID"
+          }
+        ]
+      },
+      {
+        "name": "France, Lydia",
+        "givenName": "Lydia",
+        "familyName": "France",
+        "affiliation": [
+          {
+            "name": "The Alan Turing Institute"
+          }
+        ],
+        "nameIdentifiers": [
+          {
+            "schemeUri": "https://orcid.org",
+            "nameIdentifier": "https://orcid.org/0000-0003-4392-568X",
+            "nameIdentifierScheme": "ORCID"
+          }
+        ]
+      },
+      {
+        "name": "Sharan, Malvika",
+        "givenName": "Malvika",
+        "familyName": "Sharan",
+        "affiliation": [
+          {
+            "name": "The Alan Turing Institute"
+          }
+        ],
+        "nameIdentifiers": [
+          {
+            "schemeUri": "https://orcid.org",
+            "nameIdentifier": "https://orcid.org/0000-0001-6619-7369",
+            "nameIdentifierScheme": "ORCID"
+          }
+        ]
+      },
+      {
+        "name": "Nanni, Federico",
+        "givenName": "Federico",
+        "familyName": "Nanni",
+        "affiliation": [
+          {
+            "name": "The Alan Turing Institute"
+          }
+        ],
+        "nameIdentifiers": [
+          {
+            "schemeUri": "https://orcid.org",
+            "nameIdentifier": "https://orcid.org/0000-0003-2484-4331",
+            "nameIdentifierScheme": "ORCID"
+          }
+        ]
+      },
+      {
+        "name": "Geddes, James",
+        "givenName": "James",
+        "familyName": "Geddes",
+        "affiliation": [
+          {
+            "name": "The Alan Turing Institute"
+          }
+        ]
+      }
+    ],
+    "titles": [
+      {
+        "title": "Introduction to AI and Machine Learning for The Alan Turing Institute's Clinical AI Summer School"
+      }
+    ],
+    "publisher": "Zenodo",
+    "container": {},
+    "subjects": [
+      {
+        "subject": "Artificial Intelligence"
+      },
+      {
+        "subject": "Machine learning"
+      },
+      {
+        "subject": "Training"
+      }
+    ],
+    "contributors": [],
+    "dates": [
+      {
+        "date": "2023-09-06",
+        "dateType": "Issued"
+      }
+    ],
+    "publicationYear": 2023,
+    "language": "en",
+    "identifiers": [
+      {
+        "identifier": "https://zenodo.org/record/8321608",
+        "identifierType": "URL"
+      }
+    ],
+    "sizes": [],
+    "formats": [],
+    "rightsList": [
+      {
+        "rights": "Creative Commons Attribution 4.0 International",
+        "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "schemeUri": "https://spdx.org/licenses/",
+        "rightsIdentifier": "cc-by-4.0",
+        "rightsIdentifierScheme": "SPDX"
+      },
+      {
+        "rights": "Open Access",
+        "rightsUri": "info:eu-repo/semantics/openAccess"
+      }
+    ],
+    "descriptions": [
+      {
+        "description": "This presentation was given by Nathan Simpson on 20th July 2023 as part of the Clinical AI Summer School, which was organised by The Alan Turing Institute's Clinical AI Interest Group - https://www.turing.ac.uk/research/interest-groups/clinical-ai It is an introductory talk about Artificial Intelligence and Machine Learning. The talk slides were made from material shared by the other authors but edited and added to for this version of the presentation by Nathan Simpson. A video of this talk can be found on the Turing YouTube channel - Clincial AI Summer School Playlist",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "geoLocations": [],
+    "fundingReferences": [],
+    "relatedIdentifiers": [
+      {
+        "relationType": "IsVersionOf",
+        "relatedIdentifier": "10.5281/zenodo.8321607",
+        "relatedIdentifierType": "DOI"
+      }
+    ],
+    "relatedItems": [],
+    "schemaVersion": "http://datacite.org/schema/kernel-4",
+    "providerId": "cern",
+    "clientId": "cern.zenodo",
+    "agency": "datacite",
+    "state": "findable"
+  }
